@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "LoadAfterDelete (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "LoadAfterDelete (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
